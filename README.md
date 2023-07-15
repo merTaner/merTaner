@@ -15,9 +15,6 @@ Hello, I'm Mert, I've been trying to improve myself and learn new things since I
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=merTaner&icon=0&color=0)](https://visitcount.itsvg.in)
 
